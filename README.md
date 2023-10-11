@@ -10,6 +10,9 @@ Um sistema de postagens e comentários, impulsionado pelo MongoDB.
 - Java
 - Spring Boot
 - mongoDB
+- API Restful
+- web services
+- noSQL
 
 Pré-requisitos: Java 17
 
